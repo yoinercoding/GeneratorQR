@@ -1,4 +1,4 @@
-Generato QR, Script hecho para uso personal
+Generator QR, Script hecho para uso personal
 
 Saludos :D
 
